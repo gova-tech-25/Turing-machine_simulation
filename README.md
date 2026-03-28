@@ -45,6 +45,8 @@ An interactive, cyber-themed **Turing Machine simulator** that lets you visualiz
 5. To change the input, select the desired program, enter your new string, and press **Reset** to load it onto the tape.
 
 ---
+## 🌐 Live Demo
+👉 https://your-project.vercel.app
 
 ## 📂 Project Structure
 
