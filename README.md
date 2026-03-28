@@ -46,7 +46,7 @@ An interactive, cyber-themed **Turing Machine simulator** that lets you visualiz
 
 ---
 ## 🌐 Live Demo
-👉 https://your-project.vercel.app
+👉 https://turing-machine-simulation.vercel.app/
 
 ## 📂 Project Structure
 
